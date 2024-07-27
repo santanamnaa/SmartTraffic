@@ -1,5 +1,4 @@
 # SmartTraffic
-(Artificial Intelligence Assignment)
 
 **SmartTraffic** is an intelligent traffic light automation solution that uses Artificial Intelligence (AI) and Computer Vision technology to enhance traffic efficiency and safety. This system automatically adjusts traffic light durations based on real-time traffic conditions, resulting in smoother, more efficient, and environmentally friendly traffic flow.
 
@@ -88,3 +87,5 @@ https://github.com/user-attachments/assets/cca7ffff-e5be-4026-98dc-10f58a24b38d
 
 2. **Complex Intersection Limitations**:
    - Challenges in managing complex intersections with multiple traffic flows.
+
+Disclaimer : This is an Artificial Intelligence Assignment)
