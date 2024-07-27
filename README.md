@@ -31,6 +31,7 @@ SmartTraffic utilizes advanced technologies to manage traffic, including:
 ## Demo
 
 Watch a demo of SmartTraffic here: 
+https://github.com/user-attachments/assets/cca7ffff-e5be-4026-98dc-10f58a24b38d
 
 ## Implementation
 
