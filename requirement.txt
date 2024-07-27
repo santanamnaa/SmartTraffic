@@ -1,0 +1,5 @@
+opencv-python
+numpy
+Pillow
+concurrent.futures ; python_version < "3.2"
+tk
