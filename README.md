@@ -29,8 +29,6 @@ SmartTraffic utilizes advanced technologies to manage traffic, including:
 - **Data Processing and Edge Computing**: Processes data directly in the cloud for rapid responses without the need to send data to a central server.
 
 ## Demo
-
-Watch a demo of SmartTraffic here: 
 https://github.com/user-attachments/assets/cca7ffff-e5be-4026-98dc-10f58a24b38d
 
 ## Implementation
