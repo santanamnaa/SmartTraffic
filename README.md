@@ -1,4 +1,4 @@
-# S M A R T   T R A F F I C
+# S m a r t T r a f f i c
 
 **SmartTraffic** is an intelligent traffic light automation solution that uses Artificial Intelligence (AI) and Computer Vision technology to enhance traffic efficiency and safety. This system automatically adjusts traffic light durations based on real-time traffic conditions, resulting in smoother, more efficient, and environmentally friendly traffic flow.
 
